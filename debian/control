@@ -2,6 +2,9 @@ Source: targetcli-fb
 Section: admin
 Priority: optional
 Maintainer: targetcli-fb developers <targetcli-fb-devel@lists.fedorahosted.org>
+Uploaders: Christophe Vu-Brugier <cvubrugier@fastmail.fm>,
+           Ritesh Raj Sarraf <rrs@debian.org>,
+           Christian Seiler <christian@iwakd.de>
 Build-Depends: debhelper(>= 9),
                dh-python,
                python3-all,
